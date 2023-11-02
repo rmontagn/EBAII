@@ -1,0 +1,46 @@
+//Property: name
+"name": "single cell sample integration"
+//Property: abstract
+"abstract": "This tutorial will take you through the basic usage of the command line shell. In it, you will discover what a shell is, skills for directory navigation, file manipulation, and how to run tools""Theorical presentation about sample integration and batch effect correction for single cell RNA-Seq experiment. This presentations focuses on Seurat methods but mentions other tools as well. It is intended to be included in courses of introduction to single cell RNA-Seq data analysis."
+//Property: author
+"author": [
+  {
+    "@type": "Person",
+    "name": "Remi Montagne",
+    "email": "remi.montagne@curie.fr"
+  }
+]
+//Property: contributor
+//Property: description
+"description": "Theorical presentation about sample integration and batch effect correction for single cell RNA-Seq experiment. This presentations focuses on Seurat methods but mentions other tools as well. It is intended to be included in courses of introduction to single cell RNA-Seq data analysis."
+//Property: audience
+"audience": {
+  "@type": "Audience",
+  "audienceType": "beginner in single cell analysis biologist"
+  // A succinct description of the intended target audience for your materials: e.g., graduates, postgraduates, clinicians.
+}
+//Property: educationalLevel
+"educationalLevel": "Beginner"
+//Property: inLanguage
+"inLanguage": [
+  "en-US"
+]
+//Property: teaches
+"teaches": [
+  "The student will be able to explain the overall principles of sample integration in the context of single cell data analysis.",
+  "The student will be able to evaluate if integration needs to be applied to their specific dataset.",
+  "The student will be able to discover new integration methods on their own."
+]
+//Property: keywords
+"keywords": "single cell, single cell RNA-Seq, R, Seurat, data integration, batch effect, batch effect correction"
+//Property: learningResourceType
+"learningResourceType": [
+  "presentation"
+]
+//Property: license
+"license": [
+  "https://creativecommons.org/licenses/by/4.0/"
+]
+// or CC-BY-SA "https://creativecommons.org/licenses/by-sa/4.0/"
+//Property: dateModified
+"dateModified": "2023-11-02T19:30:00+02:00"
